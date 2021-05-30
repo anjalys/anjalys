@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anjalys
-- 👀 I’m interested in Data Analytics.
+- 👀 I’m a in Data Analyst.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me www.linkedin.com/in/anjalys
